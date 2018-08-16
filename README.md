@@ -4,11 +4,12 @@ A plugin of [maptalks.js](https://github.com/maptalks/maptalks.js) to draw heatm
 
 ## Demos
 
--   A heatmap of [tempurate](https://zzcyrus.github.io/maptalks.HeatmapOverlay/demo/).
+-   A heatmap of [tempurate](https://kael.top/maptalks.HeatmapOverlay/demo/index.html).
+
 
 ## Install
 
--   Download from [dist directory](https://github.com/zzcyrus/maptalks.HeatmapOverlay/tree/gh-pages/dist).
+-   Download from [dist directory](https://github.com/zzcyrus/maptalks.HeatmapOverlay/tree/master/dist).
 
 ## Usage
 
